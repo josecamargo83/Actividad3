@@ -25,8 +25,7 @@ Este repositorio contiene una API REST desarrollada en **Python** utilizando **F
 ## ⚙️ Instalación y configuración
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/josecamargo83/Actividad3
 ```
 ### 2️⃣ Crear un entorno virtual (opcional)
 ```bash
