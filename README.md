@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ### 4️⃣ Configurar la base de datos
 Ejecuta en MySQL:
 ```sql
-CREATE DATABASE python3;
+CREATE DATABASE python;
 ```
 Modifica `conection.py` si es necesario.
 
